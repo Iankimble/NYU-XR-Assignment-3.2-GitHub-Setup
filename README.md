@@ -2,7 +2,7 @@
 
 ## Assignment- Create a hello world unity/ c# project
 
-![hello world assignment image 1](NYU-XR-Assignment-3.2-GitHub-Setup/Unity assignment image 1.png/to/img.png?raw=true "hello world")
+![hello world assignment image 1](NYU-XR-Assignment-3.2-GitHub-Setup/Unity assignment image 1.png "hello world")
 
 
 This repo contains the source code for a unity and c# hello world project. 
