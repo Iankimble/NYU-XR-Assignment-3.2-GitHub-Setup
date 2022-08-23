@@ -4,7 +4,11 @@
 
 <img alt="hello world image" width="450px" height="400px" src="NYU-XR-Assignment-3.2-GitHub-Setup/Unity assignment image 2.png" />
 
-This repo contains the source code for a unity and c# hello world project. 
+#### This repo contains the following:
+* Source code for hello world Unity project located inside of the NYU XR assignment folder. 
+* Unitiy.gitignore file located in the root of the NYU XR assignment folder. 
+
+**This repo includes a feature branch called "test_branch"**
 
 ## Assignment submission guidelines
 
