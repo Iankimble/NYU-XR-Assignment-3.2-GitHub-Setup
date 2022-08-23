@@ -2,8 +2,7 @@
 
 ## Assignment- Create a hello world unity/ c# project
 
-![hello world assignment image 1](Unity assignment image 1.png "hello world")
-![picture alt]("Unity assignment image 1.png" "Title is optional")
+<img alt="hello world image" width="450px" height="400px" src="NYU-XR-Assignment-3.2-GitHub-Setup/Unity assignment image 2.png" />
 
 This repo contains the source code for a unity and c# hello world project. 
 
